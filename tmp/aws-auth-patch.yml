@@ -10,6 +10,8 @@ data:
       username: build
       groups:
       - system:masters
+  mapUsers: |
+    []
 kind: ConfigMap
 metadata:
   creationTimestamp: "2020-05-02T21:33:14Z"
